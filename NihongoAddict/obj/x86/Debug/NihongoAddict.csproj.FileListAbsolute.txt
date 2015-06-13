@@ -1,0 +1,33 @@
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.exe
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.pdb
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Form1.resources
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Properties.Resources.resources
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.exe
+c:\users\adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.pdb
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.exe.manifest
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.application
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.exe.manifest
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.application
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\exemplos.txt
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\dicionario.txt
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Form2.resources
+C:\Users\Adriano\documents\visual studio 2010\Projects\NihongoAddict\NihongoAddict\bin\Debug\kanjidic.txt
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.exe
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.pdb
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.csprojResolveAssemblyReference.cache
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Form1.resources
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Form2.resources
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.Properties.Resources.resources
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.csproj.GenerateResource.Cache
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\exemplos.txt
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\dicionario.txt
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\kanjidic.txt
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.exe.manifest
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.application
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.exe
+D:\Documents\NihongoAddict\NihongoAddict\bin\Debug\NihongoAddict.pdb
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.exe.manifest
+D:\Documents\NihongoAddict\NihongoAddict\obj\x86\Debug\NihongoAddict.application
